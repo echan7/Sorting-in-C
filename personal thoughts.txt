@@ -1,0 +1,6 @@
+The program was fun, or not. At first, getopt is foreign to me and I am able to open up to new functions and get the right values. However, they are way too many library fuynctions for error checking and I am afraid I missed out on some library functions. I was thinking of making helper functions for error checking but it will be pointless since the return values are different.
+
+My program is followed up by read input from stdin and from a file if there are more arguments left after the options. Afterwards, it was quite a trouble for me to implement the reading file process as I could not get the right way to read the right length and output after sorting. Especially to differenciate -n or none. 
+
+I did succeed on passing the basic test by passing the -n value to a temporary integer. Then assign the true length of the array to the old integer. 
+
